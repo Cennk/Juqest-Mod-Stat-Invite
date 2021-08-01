@@ -1,8 +1,8 @@
 ﻿{
    "Defaults":{
       "ServerID":"782395696795615253",
-      "Token":"ODE2MDE5Mjg5OTc4Njk5Nzk2.YD03Lw.LsjxTKmtA77JKbx2HcABX4LMwao",
-      "AuditBotToken": "ODE2MDE5Mzg1OTg2NzExNTUy.YD03Rg.zrkHbGi7sQ9C8ADSwHLGC2-Ar20",
+      "Token":"",
+      "AuditBotToken": "",
       "InviteCode": "aresta",
       "DatabaseName": "arestademir",
       "VoiceLog": "797482270860640316",
@@ -35,7 +35,7 @@
       "SuggestionLog": "797482258336317440"
    },
    "Invite": {
-      "Token": "ODE2MDE5MzQ3MzAyNjQ1NzYx.YD03PQ.wOfFn1tCwi6HwzRfJpUmsm-JyMw",
+      "Token": "",
       "Channel": "797482267365867520"
    },
    "Permissions":{
