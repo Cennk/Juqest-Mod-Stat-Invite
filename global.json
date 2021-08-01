@@ -1,0 +1,85 @@
+﻿{
+   "Defaults":{
+      "ServerID":"782395696795615253",
+      "Token":"ODE2MDE5Mjg5OTc4Njk5Nzk2.YD03Lw.LsjxTKmtA77JKbx2HcABX4LMwao",
+      "AuditBotToken": "ODE2MDE5Mzg1OTg2NzExNTUy.YD03Rg.zrkHbGi7sQ9C8ADSwHLGC2-Ar20",
+      "InviteCode": "aresta",
+      "DatabaseName": "arestademir",
+      "VoiceLog": "797482270860640316",
+      "Prefix":".",
+      "VoiceChannelID":"797482176270565376",
+      "Developers":["416650382735835137","584782490213023745"],
+      "Status":"ᛘ Aresta",
+      "MinStaffRole":"797481966207369256",
+      "UnregisterRoles":["797482001392992306"],
+      "BannedTags":[],
+      "BannedTagsRole":"797482002118213663",
+      "TagChannel":"797482293001715752",
+      "Tag":"ᛘ",
+      "BoosterRole": "797489778798493707",
+      "TagIntakeMode":true,
+      "SecondTag":"ᛘ",
+      "TeamRole":"797481990865420318",
+      "PermCommands":[
+         { "UsePeople": ["797481967188705301"], "Usages": ["vip"], "Roles": ["817479031171711024"] },
+         { "UsePeople": ["797481967188705301"], "Usages": ["enstrüman"], "Roles": ["798548169339568159"] },
+         { "UsePeople": ["797481967188705301"], "Usages": ["vocalist","vocal"], "Roles": ["797482012562423828"] },
+         { "UsePeople": ["797481967188705301"], "Usages": ["yazılım","tasarım"], "Roles": ["797482013468000267"] },
+         { "UsePeople": ["797481967188705301"], "Usages": ["ressam"], "Roles": ["797482014240407582"] },
+         { "UsePeople": ["797481967188705301"], "Usages": ["youtuber","streamer"], "Roles": ["797482015024349204"] }
+      ],
+      "ChatChannel":"797482226585174046",
+      "TransportAuthRoles":["797481965028245504"],
+      "CommandLogChannel":"797482287864348732",
+      "VIP": "817479031171711024",
+      "SuggestionLog": "797482258336317440"
+   },
+   "Invite": {
+      "Token": "ODE2MDE5MzQ3MzAyNjQ1NzYx.YD03PQ.wOfFn1tCwi6HwzRfJpUmsm-JyMw",
+      "Channel": "797482267365867520"
+   },
+   "Permissions":{
+      "Welcome":{
+         "Channel":"797482172092252211",
+         "Image":"https://cdn.discordapp.com/attachments/766362824855257109/791019943219036190/giphy_2.gif"
+      },
+      "Meeting":{
+         "Role":"797482047797985302",
+         "Log":"797482280192704523"
+      },
+      "Register":{
+         "AuthRoles":["797481966207369256"],
+         "ManRoles":["797482000352673824","797481999907815424"],
+         "WomanRoles":["797481998985854988","797481998108721155"],
+         "ManEmoji":"817479412509310986",
+         "WomanEmoji":"817479412584153138"
+      },
+      "Ban":{
+         "AuthRoles":["797481964282183720"],
+         "MassBanAuthRoles":["797481951899942932"],
+         "Channel":"797482261519532043",
+         "Image":"https://cdn.discordapp.com/attachments/766362824855257109/791019943219036190/giphy_2.gif",
+         "Limit":3
+      },
+      "Jail":{
+         "AuthRoles":["797481963518296065"],
+         "Channel":"797482263670947840",
+         "Role":"797481986532442152",
+         "Limit":5
+      },
+      "ChatMute":{
+         "AuthRoles":["797481965598933044"],
+         "Channel":"797482285757759549",
+         "Role":"797481987295674418"
+      },
+      "VoiceMute":{
+         "AuthRoles":["800004374033596426"],
+         "Channel":"797482285757759549"
+      },
+      "Suspect":{
+         "Role":"797482002118213663",
+         "Channel":"797482258336317440",
+         "Days":7
+      }
+   }
+}
