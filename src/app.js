@@ -9,7 +9,7 @@ const { CronJob } = require("cron");
 const { StatsModel } = require("./Helpers/models.js");
 const fs = require("fs");
 
-Mongoose.connect("şaka la şaka durun amk girmeyin cluster patlıcak".replace("<dbname>", Defaults.DatabaseName), {
+Mongoose.connect("".replace("<dbname>", Defaults.DatabaseName), {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useFindAndModify: false
