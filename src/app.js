@@ -9,7 +9,7 @@ const { CronJob } = require("cron");
 const { StatsModel } = require("./Helpers/models.js");
 const fs = require("fs");
 
-Mongoose.connect("mongodb+srv://juqest:im123456789@cluster0.g5g8j.mongodb.net/<dbname>?retryWrites=true&w=majority".replace("<dbname>", Defaults.DatabaseName), {
+Mongoose.connect("şaka la şaka durun amk girmeyin cluster patlıcak".replace("<dbname>", Defaults.DatabaseName), {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useFindAndModify: false
